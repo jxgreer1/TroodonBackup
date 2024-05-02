@@ -1,0 +1,29 @@
+.consoleScrollContainer,
+.consoleTable {
+  font-family: monospace;
+  font-size: 15px;
+}
+#nav-header .v-toolbar_titles{
+  font-size: 35px;
+}
+
+.v-toolbar__title {
+  text-transform: uppercase;
+  font-family: 'Courier Newt', monospace;
+  color: #03b50b;
+}
+
+.theme--dark.v-navigation-drawer {
+    background-color: #000;
+  .v-list-item-group .v-list-item--active {
+    color: yellowgreen;
+}
+
+.theme--dark.v-icon {
+    color: #FFFFFF;
+}
+
+.theme--dark.v-sheet {
+    border-color: #1e1e1e;
+    color: #03b50b;
+}
